@@ -1,0 +1,2 @@
+# cursosql
+PARA AVALIAÇÃO DA EQUIP DO DIO
